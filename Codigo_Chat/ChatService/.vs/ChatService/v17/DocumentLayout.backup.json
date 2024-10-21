@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53E66627-2F3C-4F1C-9D86-13D558545E2A}|ChatService.csproj|c:\\users\\sofia\\documents\\utn\\3 a\u00F1o - 2024\\desarrollosoftware\\tpintegrador\\desarrollo-de-software\\chatteoria\\chatservice\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E66627-2F3C-4F1C-9D86-13D558545E2A}|ChatService.csproj|solutionrelative:hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E66627-2F3C-4F1C-9D86-13D558545E2A}|ChatService.csproj|c:\\users\\sofia\\documents\\utn\\3 a\u00F1o - 2024\\desarrollosoftware\\tpintegrador\\desarrollo-de-software\\chatteoria\\chatservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E66627-2F3C-4F1C-9D86-13D558545E2A}|ChatService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53E66627-2F3C-4F1C-9D86-13D558545E2A}|ChatService.csproj|c:\\users\\sofia\\documents\\utn\\3 a\u00F1o - 2024\\desarrollosoftware\\tpintegrador\\desarrollo-de-software\\chatteoria\\chatservice\\userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53E66627-2F3C-4F1C-9D86-13D558545E2A}|ChatService.csproj|solutionrelative:userconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 403,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\UserConnection.cs",
+              "RelativeDocumentMoniker": "UserConnection.cs",
+              "ToolTip": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\UserConnection.cs",
+              "RelativeToolTip": "UserConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T00:04:38.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T19:55:28.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\Sofia\\Documents\\UTN\\3 A\u00F1o - 2024\\DesarrolloSoftware\\TPIntegrador\\Desarrollo-de-Software\\ChatTeoria\\ChatService\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "Hubs\\ChatHub.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T19:38:11.145Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
